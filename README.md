@@ -22,6 +22,7 @@
 - RDF
 - MSD
 - E2E autocorrelation & relaxation time (polymers)
+- Viscosity calculation
 
 ## Running the code:
 
